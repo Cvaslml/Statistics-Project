@@ -15,6 +15,7 @@ output:
 
 El propósito de este proyecto es analizar datos de personas atendidas y atenciones de partos en los diferentes departamentos de Colombia durante los años 2017, 2018 y 2019. Se busca identificar tendencias, patrones significativos y realizar un análisis descriptivo mediante gráficos y tablas.
 
+¿Cómo ha evolucionado la atención de partos en términos de cobertura y tasa representativa en los diferentes departamentos de Colombia entre 2017 y 2019, y cuáles son las disparidades más significativas?
 ---
 
 # Preparación del entorno
@@ -178,7 +179,7 @@ skim(data_departamento)
 - Los departamentos con mayores atenciones reflejan concentraciones demográficas o necesidades específicas.
 - Se observan patrones consistentes a lo largo de los años, lo cual indica estabilidad en la distribución regional.
 - Los departamentos con menor cantidad de atenciones podrían requerir mayor investigación para identificar factores limitantes.
-
+- La atención de partos en Colombia entre 2017 y 2019 muestra una tendencia positiva en términos de incremento en el número de atenciones, pero persisten desigualdades significativas entre regiones. Estas disparidades pueden estar relacionadas con factores socioeconómicos y la infraestructura disponible en cada departamento.
 ---
 
 # Referencias
